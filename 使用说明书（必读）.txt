@@ -1,0 +1,1 @@
+本次课程设计的开发工具是NetBeans，数据库是MySQL，记得在程序中SqlServer类中修改连接数据库的用户名和密码。数据库的创建请用memory_test.sql中的sql语句进行创建。
